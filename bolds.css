@@ -1,0 +1,164 @@
+body	{
+	font-family:	Veranda, Geneva, Arial;
+	text-align:	center;
+	background:	black;
+	color:	#333333;
+	}
+
+#wrapper{
+	width: 920px;
+	margin: 0px auto;
+	text-align: left;
+	}
+
+ #navbar ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #cccccc; 
+	} 
+ 
+#navbar ul li {  
+	display: inline; 
+	} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: white; 
+	background-color: #cccccc; 
+	} 
+ 
+#navbar ul li a:hover { 
+	color: red; 
+	} 
+
+#header{
+	background-color: #cccccc;
+	padding: 15px;
+	margin: 10px;
+}
+
+#header h1{
+	color: red;
+}
+
+#header h3{
+	color: red;
+}
+
+#main{
+	background-color: #cccccc;
+	padding: 15px;
+	margin: 10px;
+	margin-right: 30%;
+}
+
+#main h4{
+		color: red;
+}
+
+#main img{
+	padding: 4px;
+	margin-right: 5px;
+}
+	
+#sidebar{
+	background-color: #cccccc;
+	font-size: 75%;
+	padding: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 25%;
+	float: right;
+}
+
+#sidebar h4	{
+	color:	red;
+	}
+
+#footer{
+	background-color: #cccccc;
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	font-size: 75%;
+	clear: right;
+}
+
+#interest{
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 10px;
+	margin-right: 30%;
+	height: 160px;
+}
+
+#interest img{
+	padding: 4px;
+	margin-right: 5px;
+}
+
+#tab { 
+margin-left: 40px;  
+}
+
+
+#first{
+text-align: center;
+font-size: 19px;
+font-style: oblique;
+}
+
+#main1{
+padding: 15px;
+margin: 10px;
+margin-right: 30%;
+color: red;
+text-align: justify;
+font-size: 17px;
+line-height: 120%;
+font-family: Veranda, Geneva, Arial;
+word-spacing: -2px;
+}
+
+#mainInfo{
+    background-color: #cccccc;
+padding: 15px;
+padding-left: 80px;
+padding-bottom: 30px;
+margin: 10px;
+margin-right: 30%;
+    line-height: 1.9em;
+font-style: italic;
+font-family: Georgia, "Times New Roman", Times, serif;
+color: #333333;
+    border-color: black;
+border-width: 1px;
+border-style: dashed;
+background-image: url(img/background1.jpg);
+background-repeat: no-repeat;
+background-position: top left;
+}
+
+#mission{
+	line-height: 1.9em;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color:	#333333;
+	border-color: black;
+	border-width: 1px;
+	border-style: dashed;
+	background-color: #cccccc;
+	padding: 15px;
+	padding-left: 80px;
+	padding-bottom: 30px;
+	margin: 10px;
+	margin-right: 30%;
+	background-image: url(img/background1.jpg);
+	background-repeat: no-repeat;
+	background-position: top left;
+}

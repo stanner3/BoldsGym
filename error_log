@@ -1,0 +1,7 @@
+[25-Apr-2016 02:31:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kchaney'@'localhost' (using password: YES) in /home/stanner3/public_html/projects/itec325/includes/utils.php on line 13
+[31-Jul-2016 06:16:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kchaney'@'localhost' (using password: YES) in /home/stanner3/public_html/projects/itec325/includes/utils.php on line 13
+[06-Feb-2017 18:13:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kchaney'@'localhost' (using password: YES) in /home/stanner3/public_html/projects/itec325/includes/utils.php on line 13
+[06-Feb-2017 18:13:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kchaney'@'localhost' (using password: YES) in /home/stanner3/public_html/projects/itec325/includes/utils.php on line 13
+[09-Apr-2017 05:58:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'kchaney'@'localhost' (using password: YES) in /home/stanner3/public_html/b4/projects/itec325/includes/utils.php on line 13
+[10-May-2017 13:37:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'kchaney'@'localhost' (using password: YES) in /home/stanner3/public_html/projects/itec325/includes/utils.php on line 13
+[10-May-2017 13:38:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'kchaney'@'localhost' (using password: YES) in /home/stanner3/public_html/projects/itec325/includes/utils.php on line 13
